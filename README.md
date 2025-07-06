@@ -1,4 +1,4 @@
-Designed and implemented a complete data cleaning pipeline using SQL to prepare a raw dataset of global company layoffs for analysis.
+Designed and implemented a complete data cleaning pipeline using SQL SERVER to prepare a raw dataset of global company layoffs for analysis.
 
 Removed duplicate records using ROW_NUMBER() with PARTITION BY on key fields such as company, industry, and date.
 
